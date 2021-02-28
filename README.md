@@ -6,3 +6,5 @@
 <p> - 🌱 I’m currently learning something new .. yes <a href="https://reactjs.org/" > reactJS </a> <p>
 
 <h4 align="center">Is there something I can do for you ❓ <a href="mailto:swathimuroor@gmail.com">  Get in touch!</a> </h4>
+
+<img src="https://badges.pufler.dev/visits/swathimuroor/swathimuroor">
